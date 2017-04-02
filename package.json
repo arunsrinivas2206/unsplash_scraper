@@ -1,0 +1,16 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Srinivas <arunsrinivas.venkatesh@yahoo.com> (http://cuckoopost.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "fs": "0.0.1-security",
+    "request": "2.81.0"
+  }
+}
